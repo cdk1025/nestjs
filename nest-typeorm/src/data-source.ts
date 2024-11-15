@@ -6,7 +6,7 @@ export default new DataSource({
   host: 'localhost',
   port: 3306,
   username: 'root',
-  password: 'example',
+  password: 'dengke',
   database: 'nest-migration-test',
   synchronize: false,
   logging: true,
